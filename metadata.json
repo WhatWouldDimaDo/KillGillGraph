@@ -1,0 +1,5 @@
+{
+  "name": "Tarantino Influence Graph",
+  "description": "A 3D interactive force-directed graph visualizing the film influence network of Quentin Tarantino's Kill Bill.",
+  "requestFramePermissions": []
+}
